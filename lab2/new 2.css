@@ -1,0 +1,28 @@
+
+ 
+img{
+	width: 500px;
+	margin: 5px 100px;
+	height: 300px;
+}
+.h3{
+	margin-right:5%;
+}
+A:link { 
+	font-size: 20px;
+	color:#691502; 
+	text-decoration: none;}
+A:visited { 
+	font-size: 20px;
+	color:#691502; 
+	text-decoration: none;}
+A:active { 
+	font-size: 20px;
+	color:#691502; 
+	text-decoration: none;}
+A:hover { 	
+	text-decoration: none;
+    font-size: 20px; 
+    font-weight: bold; 
+    color: #EF3D13; 
+   }

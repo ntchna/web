@@ -1,0 +1,62 @@
+
+.aaa {
+	padding: 20px;
+	outline: 1px solid #666;
+	margin: 5px 200px;
+ }
+ 
+img{
+	width: 1100px;
+	margin: 5px 200px;
+}
+.h3{
+	margin-right:5%;
+}
+A.link1:link { 
+	font-size: 20px;
+	color:#FDE6E1; 
+	text-decoration: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left:93%;
+	outline: 2px solid #666;
+	padding: 8px;
+	background: #CE2A18;}
+A.link1:visited { 
+	font-size: 20px;
+	color:#FDE6E1; 
+	text-decoration: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left:93%;
+	outline: 2px solid #666;
+	padding: 5px;
+	background: #CE2A18;}
+A.link1:active { 
+	font-size: 20px;
+	color:#FDE6E1; 
+	text-decoration: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left:93%;
+	outline: 2px solid #666;
+	padding: 5px;
+	background: #CE2A18;}
+A.link1:hover { 	
+	text-decoration: none;
+    font-size: 20px; 
+    font-weight: bold; 
+    color: #FDE6E1; 
+	background: #AC4830;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left:93%;
+	outline: 2px solid #666;
+	padding: 12px;
+   }
+A.link2{
+	text-decoration: none;
+    font-size: 18px; 
+    color: #AC4830	; 
+	
+}

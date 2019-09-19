@@ -1,0 +1,14 @@
+.h1{
+	front-size: 14px;
+	color: #989898;
+	font-style: italic;
+}
+.list{
+	float: left;
+	text-decoration: none;
+	margin: 0 auto;
+	list-style: none;
+	color: #989898;
+	display: inline;
+	front-size: 10px;
+}
